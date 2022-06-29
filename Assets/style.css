@@ -1,0 +1,19 @@
+body{
+    background-color: #acacac;
+}
+html, body, .container-fluid, .content-row {
+    height: 100%;
+}
+
+.hide {
+    display: none;
+}
+
+.city-btn:hover {
+    background-color: #d7d7d7;
+    cursor: pointer;
+}
+
+.card {
+    background-color: #6db2fc;
+}
