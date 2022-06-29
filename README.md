@@ -6,7 +6,9 @@ I used AJAX(my brother helped me out with this) to obtain data from the API in J
 
 Includes a search history so you can view your past searches that you can even click onto to get a new forecast.
 
+
 Here you can see the homepage
+![homepage](https://user-images.githubusercontent.com/97704426/176367837-de0c53b0-92c8-444b-9565-1ab1b110f5f7.JPG)
 
 
-This is what it looks like when a city is searched, and you can see the city is saved in the search history
+This is what it looks like when a city is searched, and you can see the city is saved in the search history![search](https://user-images.githubusercontent.com/97704426/176367861-52c76ba8-0ab2-409e-8787-a66536cce49d.JPG)
